@@ -41,7 +41,7 @@ namespace SayiTaminEtmeOyunu
                 }
                 else
                 {
-                    sonuc_text.Text = "TEBRİKLER. KAZANDINIZ!!!";
+                    sonuc_text.Text = "Tebrikler. Kazandın.";
                     tahmin_et_buton.Enabled = false;
                 }
             }
